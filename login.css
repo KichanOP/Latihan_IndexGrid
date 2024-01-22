@@ -1,0 +1,63 @@
+.bom{
+    background-color:lightgray;
+
+}
+.container1{
+    background-color: white;
+    margin: 100px;
+    height: 700px;
+    border-radius: 20px;
+}
+.container2{
+    background-color: aqua;
+}
+img{
+    margin-top: 100px;
+    
+    
+}
+.balik{
+    margin-left: 700px;
+    color: blue;
+    text-decoration: double;
+    font-size: 30px;
+}
+.bg{
+    background-color:blue;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    height: 640px;
+    color: white;
+}
+.hello{
+    margin-top: 10px;
+    margin-left: -500px;
+}
+.hello1{
+    margin-right: 400px;
+}
+
+.form{
+    margin-top: 40px;
+    width: 500px;
+    margin-left: 60px;
+}
+.button{
+    width: 500px;
+    margin-top:40px;
+}
+.button1{
+    margin-top: 20px;
+    width: 500px;
+    border-color: lightgray;
+}
+.img2{
+    width: 15px;
+    margin-top: 0px;
+}
+.pass{
+    margin-left: 230px;
+    width: 900px;
+}
